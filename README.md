@@ -2,4 +2,4 @@
 
 The perfect Image platform!
 
-## (still under development)
+-- (still under development)
